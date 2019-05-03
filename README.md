@@ -11,6 +11,12 @@ The Project consists of a 3D game which is developed by using two software’s, 
 3. PRANJAL GUPTA
 4. PRAJJWAL BHARDWAJ
 
+**Project Mentor : ** 
+
+- Mr. Praveen Saini(Assistant Professor)
+
+
+
 ### **Platform And Software Used To Build This**
 
 
