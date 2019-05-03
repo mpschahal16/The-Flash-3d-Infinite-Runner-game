@@ -45,7 +45,7 @@ I will suggest to use higher configuration system......
 
 
 
-![](C:\Users\Manpreet\Desktop\unity.jpg)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/unity.jpg)
 
 ### **Some Screenshots of The game**
 
