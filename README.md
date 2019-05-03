@@ -38,51 +38,51 @@ I will suggest to use higher configuration system......
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (2).png)
+![alt text](https://raw.githubusercontent.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/master/SampleImages/Screenshot (2).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (4).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (4).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (3).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (3).png)
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (5).png)
-
-
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (5).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (6).png)
+
+
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (6).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (7).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (7).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (8).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (8).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (9).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (9).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (10).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (10).png)
 
 
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (11).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (11).png)
 
-![](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (12).png)
+![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (12).png)
 
 
 
 ### **Game Video Link**
 
-[]: https://www.youtube.com/watch?v=MCzaV9onlK4
+[alt text]: https://www.youtube.com/watch?v=MCzaV9onlK4
 
 
 
@@ -92,7 +92,7 @@ If this source help you and you are happy to donate .....
 
 **PayPal:**
 
-[]: https://www.paypal.me/mpschahal
+[alt text]: https://www.paypal.me/mpschahal
 
 **(For Indians)**
 
