@@ -4,6 +4,14 @@ The Project consists of a 3D game which is developed by using two software’s, 
 
 
 
+if you want to try the game then their is a installer present under  **One Click Installer Of the Game/**
+
+
+
+**Note: This is build for windows platform.**
+
+
+
 ##### **Team Members:**
 
 1. Manpreet Singh
