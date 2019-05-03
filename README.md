@@ -38,7 +38,7 @@ I will suggest to use higher configuration system......
 
 
 
-![alt text](https://raw.githubusercontent.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/master/SampleImages/Screenshot (2).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(2).png)
 
 
 
