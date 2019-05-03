@@ -82,7 +82,7 @@ I will suggest to use higher configuration system......
 
 ### **Game Video Link**
 
-[alt text]: https://www.youtube.com/watch?v=MCzaV9onlK4
+https://www.youtube.com/watch?v=MCzaV9onlK4
 
 
 
@@ -92,7 +92,7 @@ If this source help you and you are happy to donate .....
 
 **PayPal:**
 
-[alt text]: https://www.paypal.me/mpschahal
+https://www.paypal.me/mpschahal
 
 **(For Indians)**
 
