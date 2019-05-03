@@ -4,6 +4,13 @@ The Project consists of a 3D game which is developed by using two software’s, 
 
 
 
+##### **Team Members:**
+
+1. MANPREET SINGH
+2. SAKSHI GUPTA
+3. PRANJAL GUPTA
+4. PRAJJWAL BHARDWAJ
+
 ### **Platform And Software Used To Build This**
 
 
