@@ -6,10 +6,10 @@ The Project consists of a 3D game which is developed by using two software’s, 
 
 ##### **Team Members:**
 
-1. MANPREET SINGH
-2. SAKSHI GUPTA
-3. PRANJAL GUPTA
-4. PRAJJWAL BHARDWAJ
+1. Manpreet Singh
+2. Sakshi Gupta
+3. Pranjal Gupta
+4. Prajjwal Bhardwaj
 
 **Project Mentor : ** 
 
@@ -33,7 +33,7 @@ The Project consists of a 3D game which is developed by using two software’s, 
 
 3. **Graphic Card:2gb AMD Radeon (TM) R5 M330**
 
-These are also **minimum requirements** below this it game may lag.....
+These are also **minimum requirements** below this game may lag.....
 
 I will suggest to use higher configuration system......
 
