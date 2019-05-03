@@ -42,41 +42,41 @@ I will suggest to use higher configuration system......
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (4).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(4).png)
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (3).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(3).png)
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (5).png)
-
-
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(5).png)
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (6).png)
+
+
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(6).png)
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (7).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(7).png)
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (8).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(8).png)
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (9).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(9).png)
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (10).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(10).png)
 
 
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (11).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(11).png)
 
-![alt text](C:\Users\Manpreet\Pictures\Screenshots\Screenshot (12).png)
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/Screenshot%20(12).png)
 
 
 
