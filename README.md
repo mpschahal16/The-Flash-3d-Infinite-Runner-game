@@ -51,9 +51,11 @@ I will suggest to use higher configuration system......
 
 - Unity 2018.3.7f1 (64-bit)
 
-
-
 ![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/unity.jpg)
+
+- Visual Studio 2017 Community (For C# Scripts)
+
+![alt text](https://github.com/mpschahal16/The-Flash-3d-Infinite-Runner-game/blob/master/SampleImages/visualstudio.png)
 
 ### **Some Screenshots of The game**
 
